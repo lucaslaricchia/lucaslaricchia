@@ -1,18 +1,23 @@
-### Hi there 👋
+# Welcome to Lucas' Profile
 
-<!--
-**lucaslaricchia/lucaslaricchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslaricchia/)
 
-Here are some ideas to get you started:
+- Typescript | JavaScript Sourcerer
+- Full-Stack Developer | Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+- 3+ yoe with JavaScript for both backend and frontend, including NodeJS, ExpressJS, and reactive frameworks such as ReactJS.
+- 3+ yoe with frontend developing, including HTML5, CSS3, Bootstrap
+- 2+ yoe with relational Database management using MySQL and PostgreSQL
+- 1~ yoe with deploying techs, CI/CD, and queue communication, including NGINX, Heroku, Docker, Jenkins, RabbitMQ
+- 1~ yoe with AWS services including EC2, S3, CloudWatch, Lambda, Organizations. Training for AWS Cloud Practitioner Certification
+
+## Skills
+
+- Good English skills
+- Mechatronics Engineer
+- Solid mathematical background
+- Deep understanding of IoT and embedded systems
+
+---

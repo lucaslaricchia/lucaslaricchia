@@ -7,14 +7,15 @@
 
 ## Experience
 
-- 3+ yoe with JavaScript for both backend and frontend, including NodeJS, ExpressJS, and reactive frameworks such as ReactJS.
-- 3+ yoe with frontend developing, including HTML5, CSS3, Bootstrap
+- 4+ yoe with JavaScript for both backend and frontend, including NodeJS, ExpressJS, and reactive frameworks such as ReactJS.
+- 4+ yoe with frontend developing, including HTML5, CSS3, Bootstrap
 - 2+ yoe with relational Database management using MySQL and PostgreSQL
-- 1~ yoe with deploying techs, CI/CD, and queue communication, including NGINX, Heroku, Docker, Jenkins, RabbitMQ
-- 1~ yoe with AWS services including EC2, S3, CloudWatch, Lambda, Organizations. Training for AWS Cloud Practitioner Certification
+- 2+ yoe with deploying techs, CI/CD, and queue communication, including NGINX, Heroku, Docker, Jenkins, RabbitMQ
+- 2+ yoe with AWS services including EC2, S3, CloudWatch, Lambda, Organizations. Training for AWS Cloud Practitioner Certification
 
 ## Skills
 
+- FrontEnd developer
 - Good English skills
 - Mechatronics Engineer
 - Solid mathematical background
